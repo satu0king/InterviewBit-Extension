@@ -1,0 +1,14 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+.lc-icon {
+  width: 20px;
+  height: 20px;
+  min-height: 10px !important;
+}
+.lc-icon-big {
+  width: 30px;
+  height: 30px;
+  min-height: 10px !important;
+}
