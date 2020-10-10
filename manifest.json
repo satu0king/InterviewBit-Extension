@@ -21,5 +21,5 @@
       "js": ["js/jquery/jquery.min.js", "src/inject/inject.js"]
     }
   ],
-  "web_accessible_resources": ["data.json", "icons/*"]
+  "web_accessible_resources": ["data/*", "icons/*"]
 }
