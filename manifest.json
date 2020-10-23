@@ -1,13 +1,13 @@
 {
-  "name": "InterviewBit -> Leetcode",
+  "name": "InterviewBit",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "This extension was created with the awesome extensionizr.com",
-  "homepage_url": "http://extensionizr.com",
+  "description": "Leetcode and GeeksforGeeks links in InterviewBit",
+  "homepage_url": "https://www.interviewbit.com/courses/programming/",
   "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
+    "16": "icons/ib.png",
+    "48": "icons/ib.png",
+    "128": "icons/ib.png"
   },
   "default_locale": "en",
   "permissions": ["https://www.interviewbit.com/*"],
